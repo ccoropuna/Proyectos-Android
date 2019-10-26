@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyAplicationLogInUser</string>
+    <string name="titleLogIn">Autenticar Usuario</string>
+    <string name="ingresarUsuario">Ingrese su usuario</string>
+    <string name="ingresarClave">Ingrese su clave</string>
+    <string name="usuario">User</string>
+    <string name="clave">password</string>
+    <string name="ingresar">Ingresar</string>
+    <string name="menu">Menu</string>
+    <string name="mesaje" />
+    <string name="titleActivityMenu">Menu</string>
+    <string name="mensaje2">Bienvenido al menu</string>
+</resources>
